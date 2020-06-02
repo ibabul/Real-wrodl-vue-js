@@ -1,0 +1,130 @@
+{
+  "events": [
+    {
+      "id": 123,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Cat Cabaret",
+      "description": "Yay felines!",
+      "location": "Meow Town",
+      "date": "2019-01-03",
+      "time": "2:00",
+      "attendees": [
+        {
+          "id": 1,
+          "name": "MD IMTAZ",
+          "age": 55
+        },
+        {
+          "id": 2,
+          "name": "Faisal",
+          "age": 32
+        },
+        {
+          "id": 3,
+          "name": "Rafsan",
+          "age": 12
+        },
+        {
+          "id": 4,
+          "name": "Anonno",
+          "age": 24
+        }
+      ]
+    },
+    {
+      "id": 28510638885,
+      "user": {
+        "id": "abc123",
+        "name": "MD Imtiaz"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "MD Imtiaz"
+      },
+      "title": "Tiger Saving",
+      "description": "This is an event to save tigers and save them from extinction",
+      "location": "Sundarban , Bangladesh",
+      "date": "2020-05-09T11:52:00.000Z",
+      "time": "12:00",
+      "attendees": []
+    },
+    {
+      "id": 402015136,
+      "user": {
+        "id": "abc123",
+        "name": "MD Imtiaz"
+      },
+      "category": "Sustanability",
+      "organizer": {
+        "id": "abc123",
+        "name": "MD Imtiaz"
+      },
+      "title": "This is about Sustainability",
+      "description": "This is an event about sustainability",
+      "location": "Switerland",
+      "date": "2020-05-02T11:53:00.000Z",
+      "time": "17:00",
+      "attendees": []
+    },
+    {
+      "id": 64838806013,
+      "user": {
+        "id": "abc123",
+        "name": "MD Imtiaz"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "MD Imtiaz"
+      },
+      "title": "Save the nature",
+      "description": "This is an event to save nature before nature remove us.",
+      "location": "Worldwide",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 24758374750,
+      "user": {
+        "id": "abc123",
+        "name": "MD Imtiaz"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "MD Imtiaz"
+      },
+      "title": "Education System",
+      "description": "This is an event about education system of our country .",
+      "location": "Bangladesh",
+      "date": "2020-09-12T11:55:00.000Z",
+      "time": "19:00",
+      "attendees": []
+    },
+    {
+      "id": 76004485288,
+      "user": {
+        "id": "abc123",
+        "name": "MD Imtiaz"
+      },
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "MD Imtiaz"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    }
+  ]
+}
